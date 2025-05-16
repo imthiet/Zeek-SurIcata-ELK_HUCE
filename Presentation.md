@@ -116,12 +116,13 @@ cd zeek
 
 make -j$(nproc)
 
-udo make install
+sudo make install
 
 ```
 
 If any question to continue, input: Y and Enter
 
+![image](https://github.com/user-attachments/assets/144a637d-e7f5-4cc6-95a1-2ce5dc6e944a)
 
 
 
