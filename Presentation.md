@@ -125,7 +125,26 @@ If any question to continue, input: Y and Enter
 ![image](https://github.com/user-attachments/assets/144a637d-e7f5-4cc6-95a1-2ce5dc6e944a)
 
 
+- Tạo Alias:
 
+![image](https://github.com/user-attachments/assets/faa231f6-4651-45e5-9e68-206982e4da47)
+
+- 
+- Step 6: Install Elasticsearch:
+
+```
+sudo apt install elasticsearch
+sudo systemctl enable --now elasticsearch
+
+```
+
+![image](https://github.com/user-attachments/assets/5e2a0010-998b-4955-960b-cfb14ce4d55a)
+
+Result: 
+
+
+
+- Step 7: 
 
 
 
